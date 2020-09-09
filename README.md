@@ -3,4 +3,4 @@
 
 edited via github.com
 
-a real conflict [fixed]
+A real conflict [fixed]
